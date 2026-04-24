@@ -157,8 +157,7 @@ Full audit logging for all intelligence access
 Role-based access controls — users only see data relevant to their role
 No personal data stored beyond authentication
 ---
-Contact
-Abdullahi Abdulkadir — Project Lead
+
 > \\\\\\\*"This platform will transform technological disruption and regulatory pressure into a structured intelligence engine that improves consulting delivery, identifies new revenue streams, and positions the company as a leader in AI governance and strategic innovation."\\\\\\\*
 ---
 Version 1.0 · 2026 · Internal Proposal
